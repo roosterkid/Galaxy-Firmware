@@ -1,5 +1,5 @@
 # Galaxy-Firmware
-Download samsung firmware
+Download samsung firmware <br>
 Register here: <a href="https://rapidapi.com/ariesbrow/api/galaxy-firmware">https://rapidapi.com/ariesbrow/api/galaxy-firmware</a>
 
 Example response:
